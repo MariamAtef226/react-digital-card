@@ -1,4 +1,4 @@
-# react-digital-card 🪧
+# react-digital-card ✋
 
 ### Project Description :page_facing_up:
 A static webpage that includes a digital card for me. The project is a part of Bob Ziroll's 'Learn React' course on Scrimba. The aim of the project is getting familiar with react, different methods of setup, deployment and refreshing our web development basic skills. 
